@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PinboardChallenge</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_image_board">ImageBoardActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_pinboard">Pin Board</string>
+
+    <string name="dummy_username">Mahmoor</string>
+    <string name="dummy_user_email">mahmoor.malik@gmail.com</string>
+
+    <string name="error_title_server_not_accessible">Connection Error</string>
+    <string name="error_desc_server_not_accessible">Unable to access server. Try back shortly.</string>
+
+    <string name="error_title_server_unknown_response">Unknown Server Response</string>
+    <string name="error_desc_server_unknown_response">Unable to parse server response.</string>
+</resources>
