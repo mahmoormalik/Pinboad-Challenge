@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/MuhammadMahmoor/FNM/PinboardChallenge/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/MuhammadMahmoor/.android/build-cache/adbaa3d6f8b45098750eaf3ebd63846586831639/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/MuhammadMahmoor/FNM/PinboardChallenge/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/MuhammadMahmoor/.android/build-cache/adbaa3d6f8b45098750eaf3ebd63846586831639/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/MuhammadMahmoor/FNM/PinboardChallenge/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/MuhammadMahmoor/.android/build-cache/adbaa3d6f8b45098750eaf3ebd63846586831639/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/MuhammadMahmoor/FNM/PinboardChallenge/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/MuhammadMahmoor/.android/build-cache/adbaa3d6f8b45098750eaf3ebd63846586831639/output/res/layout-v21/notification_action.xml"
+    }
+]
